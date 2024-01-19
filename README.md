@@ -5,8 +5,8 @@ Este é um script Python simples que recebe um URL do Spotify e extrai informaç
 Antes de executar o script, é necessário configurar as credenciais do Spotify. Certifique-se de ter um arquivo .env no mesmo diretório do script com as seguintes informações:
 
 ```
-client_id=SUA_CLIENT_ID_SPOTIFY
-client_secret=SUA_CLIENT_SECRET_SPOTIFY
+client_id = SEU_ID
+client_secret = SEU_ID_SECRETO
 ```
 
 > Você pode obter suas credenciais do Spotify aqui: https://developer.spotify.com
